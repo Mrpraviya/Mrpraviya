@@ -1,22 +1,29 @@
  
-<h1 align="center"><b>Hi , I'm Sandeeptha Praveen </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hii</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Sandeeptha Praveen </h1>
 <!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+To+The+My+Profile..&hearts;++;Full-Stack+WEB+Developer.;Computer+Engineering+Student.;Active+Learner/Researcher.;Love+to+learn+new+stuffs.."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+To+The+My+Profile..&hearts;++;A+passionate+Full+Stack+WEB+developer+from+Sri+Lanka.;Computer+Engineering+Student.;Active+Learner/Researcher.;Love+to+learn+new+stuffs.."></a>
 </p>
-<br>
 <!-- <div align="center">
   <a href="https://Mrpraviya.github.io/Mrpraviya/">
     <img src="https://github.com/Mrpraviya/Mrpraviya/main/resources/grid-snake.svg" alt="snake" />
   </a>
 </div> -->
 <br><br>
+<p align="Center"> <img src="https://komarev.com/ghpvc/?username=mrpraviya&label=Profile%20views&color=0e75b6&style=flat" alt="mrpraviya" /> </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+<div align='center'>
+
+## <b>...✨السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ</b>
+
+</div>
+
+
 <!--## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
-
+<!--
 <p align="center">
 
 - **Languages**:
@@ -139,3 +146,4 @@
 
 <br>
 -->
+ 
